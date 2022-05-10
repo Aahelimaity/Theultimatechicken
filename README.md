@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Theultimatechicken
 - 👀 I’m interested in laying eggs
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and STATA
+
 
 
 
