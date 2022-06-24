@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Theultimatechicken
-- 👀 I’m interested in laying eggs
+- 👋 Hi, I’m Aaheli Maity
 - 🌱 I’m currently learning R and STATA
 
 
